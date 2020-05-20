@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+textarea {
+    font-size: 18px;
+    margin-left: 10%;
+}
+
+span {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 85%;
+}
